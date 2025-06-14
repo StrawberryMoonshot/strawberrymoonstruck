@@ -1,5 +1,5 @@
 ---
-title: Slidebook: Start with the Moon
+title: "Slidebook: Start with the Moon"
 nav_order: 1
 ---
 
