@@ -3,6 +3,8 @@ title: 🍓&🌕
 description: An emotional logic archive by SWHCZ (a.k.a. strawberrymoonshot)
 theme: just-the-docs
 color_scheme: strawberry
+sass:
+  custom_css: assets/css/custom.scss
 
 url: https://strawberrymoonshot.github.io/strawberrymoonstruck
 
